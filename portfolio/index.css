@@ -56,7 +56,7 @@ header .headerContainer button {
 
 carousel img {
   margin-top: 10px;
-  background-image: url("../img/carousel.jpg");
+  background-image: url(./carousel.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0 -180px;
@@ -115,7 +115,7 @@ portfolio .experience .container {
 }
 
 portfolio .experience .container .img {
-  background-image: url(../img/arrow_up_long.png);
+  background-image: url(./arrow_up_long.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 20px;
@@ -300,37 +300,37 @@ project .projectContainer .projectContent .projectItem .img {
 }
 
 project .projectContainer .projectContent .projectItem #img1 {
-  background-image: url(../img/shoes_store_online_project_banner.png);
+  background-image: url(./shoes_store_online_project_banner.png);
 }
 
 project .projectContainer .projectContent .projectItem #img2 {
-  background-image: url(../img/todo_checklist_project_banner.png);
+  background-image: url(./img/todo_checklist_project_banner.png);
   background-position: center;
 }
 
 project .projectContainer .projectContent .projectItem #img3 {
-  background-image: url(../img/XO_game_project_banner.png);
+  background-image: url(./XO_game_project_banner.png);
   background-position: center;
 }
 
 project .projectContainer .projectContent .projectItem #img4 {
-  background-image: url(../img/shoes_store_online_project_banner.png);
+  background-image: url(./shoes_store_online_project_banner.png);
 }
 
 project .projectContainer .projectContent .projectItem #img5 {
-  background-image: url(../img/shoes_store_online_project_banner.png);
+  background-image: url(./shoes_store_online_project_banner.png);
 }
 
 project .projectContainer .projectContent .projectItem #img6 {
-  background-image: url(../img/shoes_store_online_project_banner.png);
+  background-image: url(./shoes_store_online_project_banner.png);
 }
 
 project .projectContainer .projectContent .projectItem #img7 {
-  background-image: url(../img/shoes_store_online_project_banner.png);
+  background-image: url(./shoes_store_online_project_banner.png);
 }
 
 project .projectContainer .projectContent .projectItem #img8 {
-  background-image: url(../img/shoes_store_online_project_banner.png);
+  background-image: url(./shoes_store_online_project_banner.png);
 }
 
 project .projectContainer .projectContent .projectItem h3 {
