@@ -304,7 +304,7 @@ project .projectContainer .projectContent .projectItem #img1 {
 }
 
 project .projectContainer .projectContent .projectItem #img2 {
-  background-image: url(./img/todo_checklist_project_banner.png);
+  background-image: url(./todo_checklist_project_banner.png);
   background-position: center;
 }
 
